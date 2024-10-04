@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I am Shreyans, I have made this repositary to showcase my prominent projects. 
 
-If you have any suggestions or Question about the project, you can contact me on my email id: spanwar.3293@gmail.com
+If you have any suggestions or questions about the project, you can contact me on my email id: spanwar.3293@gmail.com
